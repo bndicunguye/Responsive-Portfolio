@@ -62,7 +62,9 @@ h3 {
   background: #ffffff;
   border-bottom: 2px solid #cccccc;
 }
-
+#moreSpace {
+  margin-right: 10px;
+}
 #logo {
   float: left;
   width: 250px;
